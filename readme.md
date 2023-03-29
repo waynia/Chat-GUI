@@ -9,3 +9,6 @@ This tool is a GUI interface implemented for dialog using Flask. Although it has
 3. The program will check if there are any CSV files in the "uploads" folder. If there are, the chat dialogue box will become visible. Users can enter any text in the input box, and the program will call the process_input function in the backend to traverse all CSV files in the "uploads" folder and then analyze the input text. There is no specific execution code for the analysis part; the next step is to call the function to calculate the embedding of the user's input and retrieve the record with the highest similarity value from the CSV.
 
 4. The program has not yet implemented the retention of user conversations and memory functionality.
+
+![image](https://user-images.githubusercontent.com/49633741/228503449-2bb71add-9a1f-42c2-8162-00b113d97be5.png)
+
