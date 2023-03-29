@@ -9,3 +9,5 @@
 3）程序会判断uploads文件夹下是否有csv文件，如果有的情况下，会让聊天对话框可见，此时用户可以在输入框中输入任何文字，然后程序会在后台调用process_input函数遍历uploads文件夹下的所有csv文件，然后对输入文字进行分析。分析部分无任何具体的执行代码，下一步需要在此调用计算用户输入的embedding，并从csv中检索similarity数值最高的记录的函数。
 
 4）程序尚未实现对用户对话的保留以及memory功能。
+
+![image](https://user-images.githubusercontent.com/49633741/228503581-f4750198-e5b5-4fd0-9556-b029fe1e3ff3.png)
