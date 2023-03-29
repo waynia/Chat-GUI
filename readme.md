@@ -1,4 +1,4 @@
-## Readme | [简体中文](https://github.com/waynia/Chat-GUI/blob/main/readme.zh-CN.txt)
+## Readme | [简体中文](https://github.com/waynia/Chat-GUI/blob/main/readme.zh-CN.md)
 
 This tool is a GUI interface implemented for dialog using Flask. Although it has not yet integrated the OpenAI knowledge base query function, it already has all the necessary foundations. The GUI interface can achieve the following effects:
 
