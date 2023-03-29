@@ -1,4 +1,4 @@
-说明 | [English]()
+## 说明 | [English](https://github.com/waynia/Chat-GUI/blob/main/readme.md)
 
 这个工具是一个使用flask实现的简易GUI对话界面，虽然还未整合OpenAI的知识库查询功能，但已经具备了一切基础。该GUI界面可以实现如下效果：
 
